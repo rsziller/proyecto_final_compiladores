@@ -1,0 +1,20 @@
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\wfCompilador.csproj.AssemblyReference.cache
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\wfCompilador.csproj.GenerateResource.cache
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\wfCompilador.csproj.CoreCompileInputs.cache
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\wfCompilador.Form1.resources
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\bin\Debug\formCompilador.exe.config
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\bin\Debug\formCompilador.exe
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\bin\Debug\formCompilador.pdb
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\formCompilador.Properties.Resources.resources
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\formCompilador.exe
+C:\Users\jgcas\Documents\URL\Compiladores\Proyectos\Final\wfCompilador\wfCompilador\obj\Debug\formCompilador.pdb
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\bin\Debug\formCompilador.exe.config
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\bin\Debug\formCompilador.exe
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\bin\Debug\formCompilador.pdb
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\wfCompilador.csproj.AssemblyReference.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\wfCompilador.Form1.resources
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\formCompilador.Properties.Resources.resources
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\wfCompilador.csproj.GenerateResource.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\wfCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\formCompilador.exe
+C:\Users\Rolando Ziller\Documents\Universidad\2021\Segundo ciclo\Compi\project\wfCompilador\wfCompilador\obj\Debug\formCompilador.pdb
